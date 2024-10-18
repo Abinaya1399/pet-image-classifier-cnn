@@ -1,0 +1,6 @@
+dataset/test_set/*
+dataset/training_set/*
+dataset/single_prediction/*
+.DS_Store
+.ipynb_checkpoints/
+
